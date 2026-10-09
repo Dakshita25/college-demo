@@ -1,4 +1,4 @@
 # college-demo
 This my first Git repository.
-Name-Dakshita Sharma
-College-Poornima University
+Author-Dakshita Sharma,student of Poornima University
+
